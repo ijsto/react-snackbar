@@ -1,6 +1,6 @@
 {
   "name": "@ijsto/react-snackbar",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Lightweight React Snackbar/Notifications bar Component",
   "main": "index.js",
   "scripts": {
@@ -12,6 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/ijsto/react-snackbar.git"
   },
+  "keywords": [
+    "react",
+    "react-component",
+    "snackbar",
+    "notification-bar",
+    "react-notification"
+  ],
   "author": "(Scott) Agirs Neminskis <scott.agirs@gmail.com>",
   "bugs": {
     "url": "https://github.com/ijsto/react-snackbar/issues"
